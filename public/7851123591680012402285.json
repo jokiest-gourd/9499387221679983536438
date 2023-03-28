@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "727252299238",
+    "project_id": "alexa-developer",
+    "storage_bucket": "alexa-developer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727252299238:android:e19d6fce9ddfb18a16fa27",
+        "android_client_info": {
+          "package_name": "com.alexadev.babyfotoeditor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727252299238-ndnnddh0a16vjpm20khft3l2go64suf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXHW5KLYHBfcCLkge-NvLzo1vH5_t38Uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727252299238-ndnnddh0a16vjpm20khft3l2go64suf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727252299238:android:e3ca9c2f37c9721316fa27",
+        "android_client_info": {
+          "package_name": "com.alexadev.cctvkotaindonesia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727252299238-ndnnddh0a16vjpm20khft3l2go64suf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXHW5KLYHBfcCLkge-NvLzo1vH5_t38Uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727252299238-ndnnddh0a16vjpm20khft3l2go64suf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727252299238:android:28cdbe6b7ce927f616fa27",
+        "android_client_info": {
+          "package_name": "com.alexadev.twibbonframe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727252299238-ndnnddh0a16vjpm20khft3l2go64suf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXHW5KLYHBfcCLkge-NvLzo1vH5_t38Uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727252299238-ndnnddh0a16vjpm20khft3l2go64suf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
